@@ -58,4 +58,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 Contact
-For any questions or feedback, please contact pritishkumar67.com.
+For any questions or feedback, please contact pritishkumar67@gmail.com.
